@@ -16,3 +16,4 @@ class Stack {
 }
 
 var stack = new Stack();
+stack.pop();
